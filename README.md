@@ -9,3 +9,5 @@ Repository links:
 
 
 [SecureAuth] is a an authentication technology that allows customers to verify originality of products. It’s completed through confirmation of product identity with the block-chain based digitally signed authentication image of a verified supplier. Afterwards, the customer is given an option to make payment directly to the confirmed wallet of supplier.
+
+All repos have main and gh-pages branches.
