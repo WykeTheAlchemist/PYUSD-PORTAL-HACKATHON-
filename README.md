@@ -6,6 +6,7 @@ Repository links:
 1. https://github.com/WykeTheAlchemist/PYUSD-PORTAL-HACKATHON-
 2. https://github.com/WykeTheAlchemist/Cryptographic-Stamp
 3. https://github.com/WykeTheAlchemist/QR-CODE-SCANNER
+4. https://github.com/WykeTheAlchemist/Digitally-Signed-Image-Generator
 
 
 [SecureAuth] is a an authentication technology that allows customers to verify originality of products. It’s completed through confirmation of product identity with the block-chain based digitally signed authentication image of a verified supplier. Afterwards, the customer is given an option to make payment directly to the confirmed wallet of supplier.
